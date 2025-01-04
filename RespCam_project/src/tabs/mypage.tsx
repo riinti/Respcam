@@ -632,7 +632,7 @@ const styles = {
     padding: "20px",
     textAlign: "center" as const,
     flex: 1,
-    maxWidth: "280px", // 그래프 카드 최대 너비 증가
+    maxWidth: "280px",
   },
   graphTitle: {
     fontWeight: "bold",

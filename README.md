@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## 1. Project Overview
+# 1. Project Overview
 - 프로젝트 이름: Respcam
 - 프로젝트 설명: 호흡기 질환 예방 및 관리를 위한 카메라 기반 홈케어 서비스
 

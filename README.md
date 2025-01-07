@@ -96,5 +96,5 @@ project/
 <br/>
 <br/>
 
-# 6. Web Video
+# 6. Demo Video
 ![Demo GIF](https://github.com/riinti/Respcam/blob/main/readme_img/RespCamDemoVideo.gif)

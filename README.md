@@ -78,19 +78,31 @@ project/
 │   ├── img/
 │   │   ├── button_icon/     # 사이드바 아이콘 이미지
 │   │   ├── icon/            # 아이콘 이미지
-│   ├── favicon.ico          # 매인 로고 아이콘
-│   └── index.html           # HTML 템플릿 파일
+│   │   └── main_logo.png    # 매인 로고 아이콘
+│   ├── favicon.ico          # 로고 아이콘
+│   ├── index.html
+│   └── manifest.json          
 ├── src/
 │   ├── components/          # 재사용 가능한 UI 컴포넌트
+│   │   └── Sidebar.tsx
 │   ├── tabs/                # 각 페이지별 컴포넌트
-│   ├── App.css              # 메인 애플리케이션 css 파일
-│   ├── App.js               # 메인 애플리케이션 컴포넌트
-│   ├── index.css            # 전역 css 파일
-│   ├── index.js             # 엔트리 포인트 파일
-│   package-lock.json        # 정확한 종속성 버전 기록 파일
-│   package.json             # 프로젝트 종속성 및 스크립트 정의
-├── .gitignore               # Git 무시 파일 목록
-└── README.md                # 프로젝트 개요 및 사용법
+│   │   ├── alarm.tsx
+│   │   ├── main.tsx
+│   │   ├── mypage.tsx
+│   │   ├── set.tsx
+│   │   └── survey.tsx
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js 
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
 ```
 
 <br/>
